@@ -30,11 +30,11 @@
 
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=ecf05e47gh7rszkebu2jesnzgtk10e6262kcntn1vmi10dr0&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60px" height="60px"></h2>  
 <p align="left">     
-<a href="https://stackoverflow.com/users/11359907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11409373" height="30" width="40" /></a>  
-<a href="https://fb.com/mee.mahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mee.mahim" height="30" width="40" /></a>  
-<a href="https://instagram.com/me.mahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me.mahim" height="30" width="40" /></a>    
-<a href="https://leetcode.com/TheLostHorcrux/" target="blank"><img align="center" src="https://raw.githubusercontent.com/AKmahim/AKmahim/main/logo/leetcode.svg" alt="@TheLostHorcrux" height="30" width="40" /></a>
-<a href="https://www.beecrowd.com.br/judge/en/profile/340765" target="blank"><img align="center" src="https://raw.githubusercontent.com/AKmahim/AKmahim/main/logo/beecrowd.png" alt="@AKmahim" height="30" width="80" /></a>
+<a href="https://stackoverflow.com/users/11359907" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11409373" height="30" width="40" /></a>  
+<a href="https://fb.com/mee.mahim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mee.mahim" height="30" width="40" /></a>  
+<a href="https://instagram.com/me.mahim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me.mahim" height="30" width="40" /></a>    
+<a href="https://leetcode.com/TheLostHorcrux/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/AKmahim/AKmahim/main/logo/leetcode.svg" alt="@TheLostHorcrux" height="30" width="40" /></a>
+<a href="https://www.beecrowd.com.br/judge/en/profile/340765" target="_blank"><img align="center" src="https://raw.githubusercontent.com/AKmahim/AKmahim/main/logo/beecrowd.png" alt="@AKmahim" height="30" width="80" /></a>
 </p>  
 
 
