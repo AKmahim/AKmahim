@@ -3,7 +3,7 @@
 <div align="center">
  
  
-<img width="100%" style="height:5%" src="https://raw.githubusercontent.com/AKmahim/AKmahim/main/logo/me2.jpg" alt="cover" />
+<img width="100%" style="height:5%" src="https://raw.githubusercontent.com/AKmahim/AKmahim/main/logo/me2-new.jpg" alt="cover" />
 </div>
 
 ###
