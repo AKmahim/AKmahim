@@ -30,16 +30,7 @@
 
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=ecf05e47gh7rszkebu2jesnzgtk10e6262kcntn1vmi10dr0&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60px" height="60px"></h2>  
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/asifjalil0) [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://fb.com/mee.mahim) [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=white&logo=instagram&logoColor=e301a5)](https://instagram.com/me.mahim)[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/11359907)[![OJ](https://img.shields.io/badge/%20-LeetCode-black?color=14171A&labelColor=fff&logo=leetcode&logoColor=0c0d0e26)](https://leetcode.com/TheLostHorcrux/)[![Beecrowd](https://raw.githubusercontent.com/AKmahim/AKmahim/main/logo/beecrowd2.png)](https://www.beecrowd.com.br/judge/en/profile/340765)
-
-<!-- <p align="left">     
-<a href="https://stackoverflow.com/users/11359907" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11409373" height="30" width="40" /></a>  
-<a href="https://fb.com/mee.mahim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mee.mahim" height="30" width="40" /></a>  
-<a href="https://instagram.com/me.mahim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me.mahim" height="30" width="40" /></a>    
-<a href="https://leetcode.com/TheLostHorcrux/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/AKmahim/AKmahim/main/logo/leetcode.svg" alt="@TheLostHorcrux" height="30" width="40" /></a>
-<a href="https://www.beecrowd.com.br/judge/en/profile/340765" target="_blank"><img align="center" src="https://raw.githubusercontent.com/AKmahim/AKmahim/main/logo/beecrowd.png" alt="@AKmahim" height="30" width="80" /></a>
-</p>   -->
-
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/me-mahim/) [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://fb.com/mee.mahim) [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=white&logo=instagram&logoColor=e301a5)](https://instagram.com/me.mahim)[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/11359907)[![LeetCode](https://img.shields.io/badge/%20-LeetCode-black?color=14171A&labelColor=fff&logo=leetcode&logoColor=0c0d0e26)](https://leetcode.com/TheLostHorcrux/)[![Beecrowd](https://raw.githubusercontent.com/AKmahim/AKmahim/main/logo/beecrowd2.png)](https://www.beecrowd.com.br/judge/en/profile/340765)
 
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -133,11 +124,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKmahim&layout=compact&theme=merko" width="32%" alt="Top Langs"  />
 
-<!-- <img width="1%" /> -->
+<img width="1%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKmahim&theme=merko" width="32%" alt="GitHub streak stats"  />
 
-<!-- <img width="1%" /> -->
+<img width="1%" />
 <img src="https://github-readme-stats.vercel.app/api?username=AKmahim&show_icons=true&count_private=true&theme=merko" width="32%" alt="GitHub stats"  />
 </div>
 
