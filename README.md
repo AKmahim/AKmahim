@@ -120,6 +120,8 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+![Metrics](https://metrics.lecoq.io/AKmahim?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKmahim&layout=compact&theme=merko" width="32%" alt="Top Langs"  />
