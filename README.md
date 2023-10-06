@@ -19,7 +19,7 @@
 
 <br/>
 
-- 🔭 I’m currently working at [XR Interactive](https://xri.com.bd/)
+- 🔭 I’m currently working at [XR Interactive](#)
 <!-- - ⭐ All info & Project In one place [My Portfolio](#) -->
 - 🌱 I’m currently learning **everything i need**
 
