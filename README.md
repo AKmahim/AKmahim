@@ -4,6 +4,7 @@
  
  
 <img width="80%" src="https://raw.githubusercontent.com/AKmahim/AKmahim/main/logo/me2-new.jpg" alt="cover" />
+<iframe src="https://akmahim.github.io/AKmahim/" title="terminal"></iframe>
 </div>
 
 ###
