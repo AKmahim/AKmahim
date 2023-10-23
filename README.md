@@ -6,14 +6,6 @@
 <img width="80%" src="https://raw.githubusercontent.com/AKmahim/AKmahim/main/logo/me2-new.jpg" alt="cover" />
 </div>
 
-<div>
-  <iframe id="inlineFrameExample"
-      title="Inline Frame Example"
-      width="300"
-      height="200"
-      src="https://akmahim.github.io/AKmahim/">
-  </iframe>
-</div>
 
 ###
 
