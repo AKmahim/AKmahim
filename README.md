@@ -34,8 +34,14 @@
 - 📫 Reach me at **me.mahim99@gmail.com** 
 
 <img src="/language-details.svg">
+<h3 align="left">🔥   My Stats Calender:</h3>
 
-<br>
+### 
+
+<div >
+  <img src="/calender.svg"
+  >
+</div>
 
 ### 
 
@@ -127,12 +133,5 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-### 
-
-<div >
-  <img src="/calender.svg"
-  >
-</div>
 
