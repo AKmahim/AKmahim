@@ -98,7 +98,6 @@
   <img width="0" />
   <img src="https://img.shields.io/badge/Fedora-283f6e?logo=fedora&logoColor=white&style=for-the-badge" height="20" alt="Fedora logo"  />
   <img width="0" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="20" alt="ubuntu logo"  />
   <img width="0" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="20" alt="vscode logo"  />
   <img width="0" />
