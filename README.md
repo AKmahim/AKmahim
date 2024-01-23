@@ -1,24 +1,8 @@
 # Hi there 👋
 
 <div align="left">
-  <a href="https://twitter.com/omBratteng">
-    <img
-      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/ombratteng/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
-  <a rel="me" href="https://cloud-native.social/@omBratteng">
-    <img
-      src="https://img.shields.io/mastodon/follow/109437637721057155?color=blueviolet&domain=https%3A%2F%2Fcloud-native.social&label=Mastodon&logo=mastodon&logoColor=white&style=flat-square"
-      alt="Cloud Native Mastodon"
-    />
-  </a>
+ 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/me-mahim/) [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://fb.com/mee.mahim) [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=white&logo=instagram&logoColor=e301a5)](https://instagram.com/me.mahim)[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/11359907)[![LeetCode](https://img.shields.io/badge/%20-LeetCode-black?color=14171A&labelColor=fff&logo=leetcode&logoColor=0c0d0e26)](https://leetcode.com/TheLostHorcrux/)[![Beecrowd](https://raw.githubusercontent.com/AKmahim/AKmahim/main/logo/beecrowd2.png)](https://www.beecrowd.com.br/judge/en/profile/340765)
 
   <a href="https://app.daily.dev/me_mahim" target="_blank">
     <img
@@ -49,12 +33,8 @@
 
 ### 
 
+ 
 
-
-
-<h2>Connect With Me <img src = "https://media2.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=ecf05e47gh7rszkebu2jesnzgtk10e6262kcntn1vmi10dr0&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60px" height="60px"></h2>  
-
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/me-mahim/) [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://fb.com/mee.mahim) [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=white&logo=instagram&logoColor=e301a5)](https://instagram.com/me.mahim)[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/11359907)[![LeetCode](https://img.shields.io/badge/%20-LeetCode-black?color=14171A&labelColor=fff&logo=leetcode&logoColor=0c0d0e26)](https://leetcode.com/TheLostHorcrux/)[![Beecrowd](https://raw.githubusercontent.com/AKmahim/AKmahim/main/logo/beecrowd2.png)](https://www.beecrowd.com.br/judge/en/profile/340765)
 
 
 <h3 align="left">🛠 Language and tools</h3>
