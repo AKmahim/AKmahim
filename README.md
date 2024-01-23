@@ -38,10 +38,11 @@
 ### 
 
 <br/>
--  I’m currently working at [XR Interactive](#)
--  I’m currently learning **everything i need**
+- I’m currently working at [XR Interactive](#)
+- I’m currently learning **everything i need**
 - 💬 Talk to me about React, Node, Python, JavaScript, Laravel, Freelancing Opportunities etc.
 - 📫 Reach me at **me.mahim99@gmail.com** 
+
 
 <br>
 
