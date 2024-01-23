@@ -1,24 +1,52 @@
+# Hi there 👋
+
+<div align="left">
+  <a href="https://twitter.com/omBratteng">
+    <img
+      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/ombratteng/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+  <a rel="me" href="https://cloud-native.social/@omBratteng">
+    <img
+      src="https://img.shields.io/mastodon/follow/109437637721057155?color=blueviolet&domain=https%3A%2F%2Fcloud-native.social&label=Mastodon&logo=mastodon&logoColor=white&style=flat-square"
+      alt="Cloud Native Mastodon"
+    />
+  </a>
+
+  <a href="https://app.daily.dev/me_mahim" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/bc132fcfb57b4e27a6dc12230cb78213.png?r=3e0"
+      alt="Mirajul Islam Mahim's Dev Card"
+    />
+  </a>
+</div>
+
+
+
+
+ ## Hi 👋, I'm [Mirajul Islam Mahim](#)
+
 ### 
 
-<div styel="display:flex;">
- <div>
- <h1 align="center">hey there 👋</h1>
-<h3 align="left">👩‍💻  About Me</h3>
- ## Hi 👋, I'm [Mirajul Islam Mahim](#)
 <br/>
 -  I’m currently working at [XR Interactive](#)
- <!-- - ⭐ All info & Project In one place [My Portfolio](#) -->
 -  I’m currently learning **everything i need**
 - 💬 Talk to me about React, Node, Python, JavaScript, Laravel, Freelancing Opportunities etc.
 - 📫 Reach me at **me.mahim99@gmail.com** 
+
 <br>
 
-     
-</div>
-<div >
-     <a href="https://app.daily.dev/me_mahim"><img src="https://api.daily.dev/devcards/bc132fcfb57b4e27a6dc12230cb78213.png?r=3e0" width="400" alt="Mirajul Islam Mahim's Dev Card"/></a>
-</div>
-</div>
+### 
+
 
 
 
