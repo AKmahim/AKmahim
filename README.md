@@ -1,12 +1,8 @@
 ### 
 
-<div align="center">
- 
- 
-<img width="80%" src="https://raw.githubusercontent.com/AKmahim/AKmahim/main/logo/me2-new.jpg" alt="cover" />
-</div>
-
-
+<div>
+ <div align="left">
+  
 ###
 
 <h1 align="center">hey there 👋</h1>
@@ -28,6 +24,13 @@
 - 📫 Reach me at **me.mahim99@gmail.com** 
 
 <br>
+</div>
+<div align="right">
+ <a href="https://app.daily.dev/me_mahim"><img src="https://api.daily.dev/devcards/bc132fcfb57b4e27a6dc12230cb78213.png?r=3e0" width="400" alt="Mirajul Islam Mahim's Dev Card"/></a>
+</div>
+</div>
+
+
 
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=ecf05e47gh7rszkebu2jesnzgtk10e6262kcntn1vmi10dr0&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60px" height="60px"></h2>  
 
