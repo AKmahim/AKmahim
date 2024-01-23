@@ -135,4 +135,7 @@
   >
 </div>
 
-
+<div >
+  <img src="/language-details.svg"
+  >
+</div>
