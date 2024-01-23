@@ -2,8 +2,7 @@
 
 <div align="left">
  
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/me-mahim/) [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://fb.com/mee.mahim) [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=white&logo=instagram&logoColor=e301a5)](https://instagram.com/me.mahim)[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/11359907)[![LeetCode](https://img.shields.io/badge/%20-LeetCode-black?color=14171A&labelColor=fff&logo=leetcode&logoColor=0c0d0e26)](https://leetcode.com/TheLostHorcrux/)<a href="https://www.beecrowd.com.br/judge/en/profile/340765">
-    <img 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/me-mahim/) [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://fb.com/mee.mahim) [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=white&logo=instagram&logoColor=e301a5)](https://instagram.com/me.mahim)[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/11359907)[![LeetCode](https://img.shields.io/badge/%20-LeetCode-black?color=14171A&labelColor=fff&logo=leetcode&logoColor=0c0d0e26)](https://leetcode.com/TheLostHorcrux/)<a href="https://www.beecrowd.com.br/judge/en/profile/340765"><img 
       src="https://raw.githubusercontent.com/AKmahim/AKmahim/main/logo/beecrowd2.png"
       height="20"
       width="60"
@@ -40,7 +39,7 @@
 ### 
 
  
-
+<br>
 
 
 <h3 align="left">🛠 Language and tools</h3>
