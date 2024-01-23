@@ -1,32 +1,29 @@
 ### 
 
 <div styel="display:flex;">
- <div align="left">
-  
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-## Hi 👋, I'm [Mirajul Islam Mahim](#)
-
-<br/>
-
--  I’m currently working at [XR Interactive](#)
-<!-- - ⭐ All info & Project In one place [My Portfolio](#) -->
--  I’m currently learning **everything i need**
-
-- 💬 Talk to me about React, Node, Python, JavaScript, Laravel, Freelancing Opportunities etc.
-- 📫 Reach me at **me.mahim99@gmail.com** 
-
-<br>
+ <div>
+     
+     <h1 align="center">hey there 👋</h1>
+     
+     
+     
+     <h3 align="left">👩‍💻  About Me</h3>
+     
+     ## Hi 👋, I'm [Mirajul Islam Mahim](#)
+     
+     <br/>
+     
+     -  I’m currently working at [XR Interactive](#)
+     <!-- - ⭐ All info & Project In one place [My Portfolio](#) -->
+     -  I’m currently learning **everything i need**
+     
+     - 💬 Talk to me about React, Node, Python, JavaScript, Laravel, Freelancing Opportunities etc.
+     - 📫 Reach me at **me.mahim99@gmail.com** 
+     
+     <br>
 </div>
-<div align="right">
- <a href="https://app.daily.dev/me_mahim"><img src="https://api.daily.dev/devcards/bc132fcfb57b4e27a6dc12230cb78213.png?r=3e0" width="400" alt="Mirajul Islam Mahim's Dev Card"/></a>
+<div >
+     <a href="https://app.daily.dev/me_mahim"><img src="https://api.daily.dev/devcards/bc132fcfb57b4e27a6dc12230cb78213.png?r=3e0" width="400" alt="Mirajul Islam Mahim's Dev Card"/></a>
 </div>
 </div>
 
