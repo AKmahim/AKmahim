@@ -131,7 +131,9 @@
 ### 
 
 <div >
-  <img src="/calender.svg">
+  <img src="/calender.svg"
+  width="100%"
+  >
 </div>
 
 
