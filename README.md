@@ -8,7 +8,7 @@
   <a href="https://www.beecrowd.com.br/judge/en/profile/340765">
     <img 
       src="https://raw.githubusercontent.com/AKmahim/AKmahim/main/logo/beecrowd2.png"
-      height="30"
+      height="20"
       width="60"
       alt="BeeCrowd"
     >
