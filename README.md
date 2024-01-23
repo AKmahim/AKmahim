@@ -130,18 +130,8 @@
 
 ### 
 
-<div align="center">
+<div >
   <img src="/calender.svg">
 </div>
 
-<div align="center">
 
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKmahim&layout=compact&theme=merko" 
-width="32%" alt="Top Langs"  />
-
-<img width="1%" />
-<img src="https://github-readme-stats.vercel.app/api?username=AKmahim&show_icons=true&count_private=true&theme=merko" width="32%" alt="GitHub stats"  />
-</div>
-
-###
