@@ -33,6 +33,7 @@
 - 💬 Talk to me about React, Node, Python, JavaScript, Laravel, Freelancing Opportunities etc.
 - 📫 Reach me at **me.mahim99@gmail.com** 
 
+<img src="/language-details.svg"
 
 <br>
 
@@ -135,7 +136,3 @@
   >
 </div>
 
-<div >
-  <img src="/language-details.svg"
-  >
-</div>
