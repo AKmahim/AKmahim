@@ -13,7 +13,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/bc132fcfb57b4e27a6dc12230cb78213.png?r=3e0"
+      src="/devcard.svg"
       alt="Mirajul Islam Mahim's Dev Card"
     />
   </a>
