@@ -6,7 +6,7 @@
     <img 
       src="https://raw.githubusercontent.com/AKmahim/AKmahim/main/logo/beecrowd2.png"
       height="20"
-      width="50"
+      width="60"
       alt="BeeCrowd"
     ></a>
 
